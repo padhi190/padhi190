@@ -1,7 +1,22 @@
-<h1 align="center">Hi 👋, I'm Pitra</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+# Hi 👋, I'm Pitra
+👨‍💻 Front-end Engineer | 🌍 UTC+6
 
-- 📫 How to reach me **pitra.adhi@gmail.com**
+I am a Front-end Engineer with a passion for learning and exploring new technologies. I love creating beautiful and user-friendly interfaces that bring ideas to life. I enjoy collaborating with cross-functional teams to deliver high-quality software solutions.
+
+I am expanding my knowledge in web3 development, exploring the capabilities of Raspberry Pi, and diving into the fascinating world of Artificial Intelligence. 
+
+## Skills
+-  Languages: JavaScript, TypeScript, HTML, CSS
+-  Frameworks/Libraries: React, NextJS
+-  State management: Redux
+-  Version Control: Git, GitHub, Bitbucket
+-  Testing: Jest, Enzyme, Cypress
+-  Project Management: Agile, Scrum
+
+## Contact
+
+- 📫 **pitra.adhi@gmail.com**
+- 🌏 [portfolio](https://pamungkas.dev/work)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
