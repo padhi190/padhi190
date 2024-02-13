@@ -7,7 +7,7 @@ I am expanding my knowledge in web3 development, exploring the capabilities of R
 
 ## Skills
 -  Languages: JavaScript, TypeScript, HTML, CSS
--  Frameworks/Libraries: React, NextJS
+-  Frameworks/Libraries: React, NextJS, TailwindCSS, MUI
 -  State management: Redux
 -  Version Control: Git, GitHub, Bitbucket
 -  Testing: Jest, Enzyme, Cypress
