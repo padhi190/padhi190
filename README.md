@@ -3,8 +3,6 @@
 
 I am a Front-end Engineer with a passion for learning and exploring new technologies. I love creating beautiful and user-friendly interfaces that bring ideas to life. I enjoy collaborating with cross-functional teams to deliver high-quality software solutions.
 
-I am expanding my knowledge in web3 development, exploring the capabilities of Raspberry Pi, and diving into the fascinating world of Artificial Intelligence. 
-
 ## Skills
 -  Languages: JavaScript, TypeScript, HTML, CSS
 -  Frameworks/Libraries: React, NextJS, TailwindCSS, MUI
